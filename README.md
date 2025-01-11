@@ -1,9 +1,8 @@
-Here’s your updated content for the GitHub `README.md` file with the changes you requested:
-
----
 
 # BookBazzar
 A PHP-based web application for selling and donating refurbished books. Features include user authentication with Gmail alerts for login notifications, purchase confirmations, and book donation updates. The platform provides dynamic book and purchase lists, promoting sustainability and the sharing of knowledge.
+
+---
 
 Online book store website developed using PHP, HTML, JavaScript, CSS, and Bootstrap.
 
@@ -80,7 +79,3 @@ Online book store website developed using PHP, HTML, JavaScript, CSS, and Bootst
 ## Contact Me
 If you have any questions, feel free to contact me at:  
 agnes915033@gmail.com
-
----
-
-This version integrates the required image names and the updated media folder path from your repository. Let me know if further adjustments are needed!
