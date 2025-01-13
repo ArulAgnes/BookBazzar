@@ -45,36 +45,35 @@ Online book store website developed using PHP, HTML, JavaScript, CSS, and Bootst
 6. Open your browser and visit `localhost/BookBazzar/index.php`.
 
 ## Screenshots
-
 ### Homepage  
-<img alt="Homepage" src="https://github.com/ArulAgnes/BookBazzar/tree/main/media/homepage.png" />
+<img alt="Homepage" src="https://raw.githubusercontent.com/ArulAgnes/BookBazzar/main/media/homepage.png" />
 
 ### Search  
-<img alt="Search" src="https://github.com/ArulAgnes/BookBazzar/tree/main/media/search.png" />
+<img alt="Search" src="https://raw.githubusercontent.com/ArulAgnes/BookBazzar/main/media/search.png" />
 
 ### Book Details  
-<img alt="Book Details" src="https://github.com/ArulAgnes/BookBazzar/tree/main/media/book%20details.png" />
+<img alt="Book Details" src="https://raw.githubusercontent.com/ArulAgnes/BookBazzar/main/media/book%20details.png" />
 
 ### Categories  
-<img alt="Categories" src="https://github.com/ArulAgnes/BookBazzar/tree/main/media/catagories.png" />
+<img alt="Categories" src="https://raw.githubusercontent.com/ArulAgnes/BookBazzar/main/media/catagories.png" />
 
 ### My Cart  
-<img alt="My Cart" src="https://github.com/ArulAgnes/BookBazzar/tree/main/media/mycart.png" />
+<img alt="My Cart" src="https://raw.githubusercontent.com/ArulAgnes/BookBazzar/main/media/mycart.png" />
 
 ### Purchase Details  
-<img alt="Purchase Details" src="https://github.com/ArulAgnes/BookBazzar/tree/main/media/purchase%20details.png" />
+<img alt="Purchase Details" src="https://raw.githubusercontent.com/ArulAgnes/BookBazzar/main/media/purchase%20details.png" />
 
 ### Publisher List  
-<img alt="Publisher List" src="https://github.com/ArulAgnes/BookBazzar/tree/main/media/list%20publiser.png" />
+<img alt="Publisher List" src="https://raw.githubusercontent.com/ArulAgnes/BookBazzar/main/media/list%20publiser.png" />
 
 ### Quantity  
-<img alt="Quantity" src="https://github.com/ArulAgnes/BookBazzar/tree/main/media/quantity.png" />
+<img alt="Quantity" src="https://raw.githubusercontent.com/ArulAgnes/BookBazzar/main/media/quantity.png" />
 
 ### Upload Books  
-<img alt="Upload Books" src="https://github.com/ArulAgnes/BookBazzar/tree/main/media/upload.png" />
+<img alt="Upload Books" src="https://raw.githubusercontent.com/ArulAgnes/BookBazzar/main/media/upload.png" />
 
 ### Manager Panel  
-<img alt="Manager Panel" src="https://github.com/ArulAgnes/BookBazzar/tree/main/media/before%20login.png" />
+<img alt="Manager Panel" src="https://raw.githubusercontent.com/ArulAgnes/BookBazzar/main/media/before%20login.png" />
 
 ## Contact Me
 If you have any questions, feel free to contact me at:  
